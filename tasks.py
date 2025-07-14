@@ -47,7 +47,7 @@ def order_robots_from_RobotSpareBin():
     process_orders_from_csv()
     archive_receipts()
 
-# for playwright reference for future usage
+# # for playwright reference for future usage
 # def process_orders_from_csv(page):
 #     """
 #     Fills the form with data from the CSV file and clicks 'Order' for each row.
